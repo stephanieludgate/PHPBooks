@@ -1,0 +1,4 @@
+[2020-03-20T21:33:15.239776+01:00] stephanie_ludgate.INFO: Book was updated ["IDK"] []
+[2020-03-20T21:34:52.650313+01:00] stephanie_ludgate.NOTICE: New book added ["Glass Castle"] []
+[2020-03-20T21:44:59.191763+01:00] stephanie_ludgate.WARNING: Book was removed ["IDK","Current user: Stephanie"] []
+[2020-03-20T21:59:27.623349+01:00] stephanie_ludgate.WARNING: Book was removed ["Glass Castle","Current user: Stephanie"] []
